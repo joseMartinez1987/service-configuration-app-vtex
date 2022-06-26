@@ -1,7 +1,7 @@
 {
   "name": "most-amazing-service-ever",
   "vendor": "easycl",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "title": "Most amazing sevices ever",
   "description": "Reference app for VTEX IO Services",
   "mustUpdateAt": "2018-01-04",
