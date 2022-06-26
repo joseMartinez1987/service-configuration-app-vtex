@@ -1,7 +1,7 @@
 {
   "name": "most-amazing-service-ever",
   "vendor": "vtex",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "title": "Most amazing sevices ever",
   "description": "Reference app for VTEX IO Services",
   "mustUpdateAt": "2018-01-04",
@@ -10,9 +10,8 @@
   "builders": {
     "node": "6.x",
     "docs": "0.x",
-    "configuration":"0.x"
+    "configuration": "0.x"
   },
-
   "credentialType": "absolute",
   "policies": [
     {
